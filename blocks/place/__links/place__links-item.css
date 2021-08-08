@@ -1,10 +1,10 @@
-.place__list-link_link {    
+.place__links-item {    
     font-size: 18px;
     line-height: 122%;
     color: white;
     }
 
-    .place__list-link_link:hover {
+    .place__links-item:hover {
         opacity: 0.8;
         transition: 5s;
     }

@@ -1,15 +1,15 @@
-.place__description__text {
+.place__description-text {
     list-style: none;
     margin-bottom: 25px;    
 }
 
-.place__description__text:last-of-type {
+.place__description-text:last-of-type {
     list-style: none;
     margin:0;
 }
 
 @media screen and (max-width: 320px) {
-    .place__description__text {        
+    .place__description-text {        
         max-width: 320px;        
     }
 }

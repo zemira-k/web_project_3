@@ -1,4 +1,4 @@
-.place__list-link_heading {    
+.place__links-heading {    
     font-size: 12px;
     line-height: 170%;
     letter-spacing: 0.2em;
@@ -8,13 +8,13 @@
     }   
     
     @media screen and (max-width: 768px) {
-        .place__list-link_heading {
+        .place__links-heading {
             line-height: 100%;
         }
     }
     
     @media screen and (max-width: 320px) {
-        .place__list-link_heading {
+        .place__links-heading {
             line-height: 100%;
         }
     }

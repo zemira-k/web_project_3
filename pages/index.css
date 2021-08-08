@@ -34,9 +34,9 @@
 @import url('../blocks/places/__list/places__list.css');
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__description/place__description.css');
-@import url('../blocks/place/__description/__text/place__description__text.css');
+@import url('../blocks/place/__description/place__description-text.css');
 @import url('../blocks/place/__image/place__image.css');
-@import url('../blocks/place/__list-link/place__list-link.css');
-@import url('../blocks/place/__list-link/place__list-link_heading.css');
-@import url('../blocks/place/__list-link/place__list-link_link.css');
+@import url('../blocks/place/__links/place__links.css');
+@import url('../blocks/place/__links/place__links-heading.css');
+@import url('../blocks/place/__links/place__links-item.css');
 @import url('../blocks/place/__title/place__title.css');
