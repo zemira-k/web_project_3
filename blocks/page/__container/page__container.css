@@ -1,0 +1,29 @@
+.page__container {
+    max-width: 1184px;
+    min-height: 7057px;
+    margin: 0 auto;
+    color: white;
+    margin-top: 34px;
+}
+
+@media screen and (max-width: 1024px) {
+    .page__container {
+        max-width: 1024px;
+        min-height: 7175px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page__container {
+        max-width: 768px;
+        min-height: 7306px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .page__container {
+        max-width: 320px;
+        min-height: 10356px;
+        margin-top: 20px;
+    }
+}

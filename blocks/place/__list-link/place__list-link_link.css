@@ -1,0 +1,10 @@
+.place__list-link_link {    
+    font-size: 18px;
+    line-height: 122%;
+    color: white;
+    }
+
+    .place__list-link_link:hover {
+        opacity: 0.8;
+        transition: 5s;
+    }

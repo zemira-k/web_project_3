@@ -1,0 +1,12 @@
+.place__list-link {
+grid-area: place__list-link;
+list-style: none;
+padding: 0;
+align-self: self-end;
+}
+
+@media screen and (max-width: 320px) {
+    .place__list-link {
+        margin-left: 16px;        
+    }
+}
