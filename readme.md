@@ -16,4 +16,4 @@ The title contains a logo and a link to the language.
 * 3 links
 * Copyright
 
-*a link to the project: https://zemira-k.github.io/web_project_3/index.html
+*a link to the project: https://zemira-k.github.io/web_project_3/
