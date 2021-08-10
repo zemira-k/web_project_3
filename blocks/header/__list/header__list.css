@@ -8,7 +8,7 @@
     color: white;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .header__list {
         font-size: 18px;
         line-height: 20px;

@@ -1,9 +1,17 @@
 .page__container {
     max-width: 1184px;
     min-height: 7057px;
-    margin: 0 auto;
+    margin: 34px auto 0;
     color: white;
-    margin-top: 34px;
+    font-family: inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1024px) {
@@ -20,10 +28,10 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .page__container {
-        max-width: 320px;
+        max-width: 500px;
         min-height: 10356px;
-        margin-top: 20px;
+        margin: 20px auto 0;
     }
 }

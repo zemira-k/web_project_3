@@ -1,29 +1,24 @@
 .places {
-    display: flex;
-    max-width: 984px;
-    min-height: 3434px;
+    width: 83%;
     margin: 92px auto;
 }
 
 @media screen and (max-width: 1024px) {
     .places {
-        max-width: 928px;
-        min-height: 3432px;
+        width: 91%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .places {
-        max-width: 720px;
-        min-height: 3146px;
-        margin: 88px 24px;
+        width: 94%;
+        margin-top: 88px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .places {
-        max-width: 320px;
-        min-height: 5537px;
-        margin: 64px 0;
+        width: 100%;
+        margin-top: 64px;
     }
 }

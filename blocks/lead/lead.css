@@ -1,26 +1,30 @@
 .lead {
     text-align: center;
-    width: 984px;
+    width: 83%;
     margin: 58px auto 0;
+    height: 1005px;
 }
 
 @media screen and (max-width: 1024px) {
     .lead {
-    width: 928px;
+    width: 90%;
     margin: 50px auto 0;
+    height: 962px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .lead {
-    width: 768px;
+    width: 100%;
     margin: 50px auto 0;
+    height: 862px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .lead {
-    width: 320px;
-    margin: 50px auto 0;
+    height: 406px;
+    display: flex;
+    flex-direction: column;
     }
 }

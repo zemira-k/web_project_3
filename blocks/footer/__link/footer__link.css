@@ -4,10 +4,10 @@
 
 .footer__link:hover {
     opacity: 0.8;
-    transition: 5s;
+    transition: 2s;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .footer__link {
         margin: 0 0 32px 0;
     }

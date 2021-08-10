@@ -1,6 +1,6 @@
 .place__description-text {
     list-style: none;
-    margin-bottom: 25px;    
+    margin-bottom: 25px;
 }
 
 .place__description-text:last-of-type {
@@ -8,8 +8,8 @@
     margin:0;
 }
 
-@media screen and (max-width: 320px) {
-    .place__description-text {        
-        max-width: 320px;        
+@media screen and (max-width: 500px) {
+    .place__description-text {
+        max-width: 100%;
     }
 }

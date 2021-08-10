@@ -1,27 +1,29 @@
 .intro {
-    width: 690px;
-    height: 569px;
-    margin: 92px 442px 92px 148px;
+    width: 83%;
+    height: 8%;
+    margin: 92px auto;
 }
 
 @media screen and (max-width: 1024px) {
     .intro {
-    margin: 92px 286px 92px 48px;
+       width: 90%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .intro {
-    width: 720px;
-    height: 543px;
-    margin: 88px auto 88px;
+        width: 93%;
+        height: 9%;
+        margin: 88px auto;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .intro {
-    width: 288px;
-    height: 841px;
-    margin: 64px auto 64px;
+        width: 90%;
+        height: 8%;
+        margin: 64px auto;
+        display: flex;
+        flex-direction: column;
     }
 }

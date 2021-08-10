@@ -1,25 +1,27 @@
 .header {
 display: flex;
 justify-content: space-between;
-width: calc(100% - 148px * 2);
+width: 83%;
 margin: 0 auto;
 align-items: center;
+height: 44px;
 }
 
 @media screen and (max-width: 1024px) {
     .header {
-        width: calc(100% - 48px * 2);
+        width: 90%;
     }
 }
 
 @media screen and (max-width: 768px) {
     .header {
-        width: calc(100% - 24px * 2);
+        width: 93%;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .header {
-        width: calc(100% - 16px * 2);
+        width: 90%;
+        height: 36px;
     }
 }
