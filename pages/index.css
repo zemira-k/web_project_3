@@ -20,7 +20,7 @@
 @import url('../blocks/intro/intro.css');
 @import url('../blocks/intro/__article/intro__article.css');
 @import url('../blocks/intro/__list/intro__list.css');
-@import url('../blocks/intro/__list/__span-accent/intro__list__span-accent.css');
+@import url('../blocks/intro/__list/__span-accent/intro__list_span-accent.css');
 @import url('../blocks/intro/__subtitle/intro__subtitle.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/lead/lead.css');
