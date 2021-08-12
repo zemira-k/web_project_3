@@ -24,8 +24,4 @@
 * Media queries for breaking points. 
 * The pseudo class "hover" for all the links.
 
-<<<<<<< HEAD
 ## Link to GitHub pages: https://zemira-k.github.io/web_project_3/
-=======
-## Link to GitHub pages: https://zemira-k.github.io/web_project_3/
->>>>>>> 459933e21062c944cc1c47a32a45d6973269fa68
