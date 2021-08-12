@@ -3,4 +3,16 @@
     padding: 0;
     margin: 0;
     grid-gap: 81px;
-}
+  }
+
+  @media screen and (max-width: 768px) {
+    .places__list {
+      grid-gap: 73px;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .places__list {
+      grid-gap: 48px;
+    }
+  }

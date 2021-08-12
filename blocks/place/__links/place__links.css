@@ -1,12 +1,14 @@
 .place__links {
-grid-area: place__list-link;
-list-style: none;
-padding: 0;
-align-self: self-end;
-}
-
-@media screen and (max-width: 500px) {
+    grid-area: links;
+    list-style: none;
+    padding: 0;
+    align-self: self-end;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  @media screen and (max-width: 500px) {
     .place__links {
-        margin-left: 16px;
+      margin-left: 16px;
     }
-}
+  }

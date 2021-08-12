@@ -1,24 +1,18 @@
 .intro__article {
-font-size: 16px;
-line-height: 163%;
-margin: 0 0 33px 0;
-width: 70%;
-}
-
-@media screen and (max-width: 1024px) {
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0 0 33px 0;
+    width: 70%;
+  }
+  
+  @media screen and (max-width: 1024px) {
     .intro__article {
-     width: 75%;
+      width: 75%;
     }
-}
-
-@media screen and (max-width: 768px) {
+  }
+  
+  @media screen and (max-width: 768px) {
     .intro__article {
-     width: 100%;
+      width: 100%;
     }
-}
-
-@media screen and (max-width: 500px) {
-    .intro__article {
-     width: 100%;
-    }
-}
+  }

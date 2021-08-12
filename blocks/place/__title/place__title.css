@@ -4,31 +4,30 @@
     font-size: 72px;
     line-height: 106%;
     margin: 0;
-    grid-area: place__title;
+    grid-area: title;
     max-width: 440px;
-}
-
-@media screen and (max-width: 950px) {
+  }
+  
+  @media screen and (max-width: 950px) {
     .place__title {
-        font-size: 42px;
-        line-height: 110%;
-        max-width: 340px;
+      font-size: 42px;
+      line-height: 110%;
+      max-width: 340px;
     }
-}
-
-@media screen and (max-width: 750px) {
+  }
+  
+  @media screen and (max-width: 750px) {
     .place__title {
-        font-size: 37px;
-        line-height: 110%;
-        max-width: 310px;
+      font-size: 37px;
+      max-width: 310px;
     }
-}
-
-@media screen and (max-width: 680px) {
+  }
+  
+  @media screen and (max-width: 680px) {
     .place__title {
-        font-size: 32px;
-        line-height: 109%;
-        margin-left: 16px;
-        max-width: 288px;
+      font-size: 32px;
+      line-height: 109%;
+      margin-left: 16px;
+      max-width: 288px;
     }
-}
+  }

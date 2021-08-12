@@ -1,11 +1,13 @@
 .header__logo {
-height: 44px;
-width: 190px;
-}
-
-@media screen and (max-width: 500px) {
+    height: 44px;
+    width: 190px;
+    background-image: url("../../../images/logo-usa.svg");
+    background-size: cover;
+  }
+  
+  @media screen and (max-width: 500px) {
     .header__logo {
-        width: 156px;
-        height: 36px;
+      width: 156px;
+      height: 36px;
     }
-}
+  }

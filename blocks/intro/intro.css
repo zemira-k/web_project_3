@@ -1,29 +1,26 @@
 .intro {
-    width: 83%;
-    height: 8%;
-    margin: 92px auto;
+  width: 83%;
+  margin: 92px auto;
 }
 
 @media screen and (max-width: 1024px) {
-    .intro {
-       width: 90%;
-    }
+  .intro {
+    width: 90%;
+  }
 }
 
 @media screen and (max-width: 768px) {
-    .intro {
-        width: 93%;
-        height: 9%;
-        margin: 88px auto;
-    }
+  .intro {
+    width: 93%;
+    margin: 88px auto;
+  }
 }
 
 @media screen and (max-width: 500px) {
-    .intro {
-        width: 90%;
-        height: 8%;
-        margin: 64px auto;
-        display: flex;
-        flex-direction: column;
-    }
+  .intro {
+    width: 90%;
+    margin: 64px auto;
+    display: flex;
+    flex-direction: column;
+  }
 }

@@ -1,22 +1,17 @@
 .place__image {
-    grid-area: place__image;
-    width: 36vw;
-}
-
-@media screen and (max-width: 1024px) {
-    .place__image {
-        width: 43vw;
+    grid-area: image;
+    max-width: 460px;
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .place__image {    
+      max-width: 440px;
+      width: 100%;
     }
-}
-
-@media screen and (max-width: 768px) {
+  }
+  
+  @media screen and (max-width: 768px) {
     .place__image {
-        width: 44vw;
+      max-width: 340px;
     }
-}
-
-@media screen and (max-width: 500px) {
-    .place__image {
-        width: 100%;
-    }
-}
+  }  
