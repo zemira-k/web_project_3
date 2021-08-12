@@ -1,6 +1,7 @@
 ## Web Project 3 - Zemira Kehati
 
-## Project Name: From Portland to Portland Epic Bicycle Journey from Portland, ME. To Portland, OR.
+## Project Name: From Portland to Portland 
+### Epic Bicycle Journey from Portland, ME. To Portland, OR.
 
 ## Project description and its functionality: 
 * In the header there is a link for language selection. 
