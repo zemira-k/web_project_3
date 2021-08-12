@@ -16,8 +16,8 @@
       grid-column-gap: 28px;
     }
   }
-  
-  @media screen and (max-width: 500px) {
+
+  @media screen and (max-width: 650px) {
     .place {
       grid-template-areas: "title" "links" "image" "description";
       grid-column-gap: 0;
